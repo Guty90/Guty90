@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guty90&label=Profile%20views&color=0e75b6&style=flat" alt="guty90" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guty90" alt="guty90" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guty90&theme=monokai)](https://github-profile-trophy.vercel.app/?username=Guty90&theme=monokai)
 
 - 🌱 I’m currently learning **Frameworks, courses and tools**
 
@@ -27,6 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guty90&show_icons=true&locale=en" alt="guty90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guty90&" alt="guty90" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guty90&theme=monokai)](https://github-profile-trophy.vercel.app/?username=Guty90&theme=monokai)
-
