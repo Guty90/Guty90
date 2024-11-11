@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guty90&" alt="guty90" /></p>
 
-https://github-profile-trophy.vercel.app/?username=guty90&theme=monokai
+https://github-profile-trophy.vercel.app/?username=Guty90&theme=monokai
