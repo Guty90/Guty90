@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guty90&show_icons=true&locale=en" alt="guty90" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guty90&" alt="guty90" /></p>
+
+https://github-profile-trophy.vercel.app/?username=guty90&theme=monokai
